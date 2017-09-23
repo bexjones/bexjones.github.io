@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Duis in purus"
+title:  "Days in Davis"
 date:   2014-09-07 14:36:23
 categories: Duis
 ---
-<span class="image featured"><img src="/images/pic01.jpg" alt=""></span>
-Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum quam id ultricies dapibus. Donec rutrum pellentesque nisl, in bibendum erat imperdiet et. Maecenas eros lorem, dignissim in eros ut, consequat eleifend ante. Duis leo tortor, porttitor non ex ut, varius consectetur purus. Mauris vel erat risus. Nam convallis, lorem et tempus efficitur, nulla tortor efficitur sapien, ut pretium nisl turpis at purus. Nulla dui risus, suscipit nec tellus ac, aliquam finibus mi. Suspendisse accumsan, nisl a aliquet hendrerit, massa metus volutpat libero, et mollis lectus mauris et justo. Ut vitae est ut ligula sollicitudin blandit. Quisque egestas eleifend tortor, in finibus ex. Donec non orci quis odio porttitor mattis.
+<span class="image featured"><img src="/images/IMG_3161.jpg" alt=""></span>
+The Davis Egg Heads are scattered about campus. They are excellent excuses to take photos and selfies, but they are also quirky reminders of our purpose here; to stress and strain and bury our heads in knowledge until we become the human version of egg heads, leaders in our fields. 
 
-Duis ut blandit lorem. Suspendisse potenti. Donec maximus blandit neque dapibus hendrerit. Praesent dignissim turpis eu nisl varius tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur in volutpat felis. Sed eget neque vel risus fermentum maximus a vel arcu. Vivamus non lorem mattis, vehicula metus eu, pellentesque mauris. Nunc fermentum efficitur justo, et rutrum mi finibus non. Sed vehicula eros id elit elementum rhoncus. Nullam quis tellus vitae metus eleifend pharetra eget interdum nulla. Integer sit amet imperdiet urna.
+I have been in Davis almost three weeks now and I still marvel everyday at how ideally this place has been set up to serve the needs of it's 35,000 or so students. The campus sprawls the south west corner of the town. Crossing campus from one corner to the opposite corner could take an hour on foot. This might be a terrible set up, but for the copious bike lanes that meader through it all making the journey not only fast, but relatively safe. The vast spread also leaves space for grassy courtyards, tree lined avenues, and plenty of racks for all those thousands of bikes. 
 
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+The town has a tangible centre, a place where students, staff and faculty can mingle with locals and have a high likelihood of running into someone they know. The choice of venue for an evenings entertainment might be limited in comparison to a larger city, but what places have established themselves here have so far more than lived up to my expectations. 
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+Friendlier people I have never met. Every cashier, office worker, bank teller, and bartender has been polite, cheerful, and more than happy to help. 
+
+Perhaps I am in the daze of one newly arrived; allowing my surprise to overcome my apprehension. Perhaps when the hoards of undergrads arrive and classes begin, the shine of this place will begin to tarnish. I'm not sure. But as strange places go, this one is extraoridnarily comfortable. 
