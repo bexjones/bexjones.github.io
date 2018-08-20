@@ -4,7 +4,7 @@ title:  "Days in Davis"
 date:   2017-09-23 14:36:23
 categories: Duis
 ---
-<span class="image featured"><img src="/images/IMG_3161.jpg" alt=""></span>
+<span class="image featured"><img src="/images/IMG_3160.jpg" alt=""></span>
 The Davis Egg Heads are scattered about campus. They are excellent excuses to take photos and selfies, but they are also quirky reminders of our purpose here; to stress and strain and bury our heads in knowledge until we become the human version of egg heads, leaders in our fields. 
 
 I have been in Davis almost three weeks now and I still marvel everyday at how ideally this place has been set up to serve the needs of it's 35,000 or so students. The campus sprawls the south west corner of the town. Crossing campus from one corner to the opposite corner could take an hour on foot. This might be a terrible set up, but for the copious bike lanes that meader through it all making the journey not only fast, but relatively safe. The vast spread also leaves space for grassy courtyards, tree lined avenues, and plenty of racks for all those thousands of bikes. 
