@@ -1,0 +1,8 @@
+.two-columns {
+    display: flex;
+}
+
+.photo-column img {
+    width: 20em;
+    margin-left: 2em;
+}
